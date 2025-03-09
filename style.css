@@ -74,8 +74,9 @@ section{
 }
 
 .home-img img{
-    width: 35vw; */
-    box-shadow: 0 0 1rem var(--main-color);}
+    width: 35vw; 
+    box-shadow:  0 0 1rem var(--main-color);
+}
 
   
 
